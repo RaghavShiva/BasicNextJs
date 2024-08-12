@@ -1,1 +1,1 @@
-# BasicNextJs
+# Basic Next Js
